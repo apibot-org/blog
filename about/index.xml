@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Apibot</title>
-    <link>http://apibot.co/about/</link>
+    <link>/blog/about/</link>
     <description>Recent content in About on Apibot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://apibot.co/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
